@@ -1,0 +1,3 @@
+[submodule "themes/astro-ecommerce"]
+	path = themes/astro-ecommerce
+	url = https://github.com/creativetimofficial/astro-ecommerce.git
